@@ -1,1 +1,1 @@
-#it is a html page which has side bar which is done by only using html and css .
+Photography Sidebar Menu Project – A stylish HTML and CSS-based sidebar navigation layout designed for a photography-themed website, featuring smooth transitions and integrated social icons.
